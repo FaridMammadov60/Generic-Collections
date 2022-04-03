@@ -14,3 +14,19 @@ C:\Users\farid\Desktop\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleA
 C:\Users\farid\Desktop\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.pdb
 C:\Users\farid\Desktop\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.genruntimeconfig.cache
 C:\Users\farid\Desktop\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\ref\Generic-CollectionsConsoleApp.dll
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\bin\Debug\net5.0\Generic-CollectionsConsoleApp.exe
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\bin\Debug\net5.0\Generic-CollectionsConsoleApp.deps.json
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\bin\Debug\net5.0\Generic-CollectionsConsoleApp.runtimeconfig.json
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\bin\Debug\net5.0\Generic-CollectionsConsoleApp.runtimeconfig.dev.json
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\bin\Debug\net5.0\Generic-CollectionsConsoleApp.dll
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\bin\Debug\net5.0\Generic-CollectionsConsoleApp.pdb
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.AssemblyInfo.cs
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.dll
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\refint\Generic-CollectionsConsoleApp.dll
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.pdb
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\Generic-CollectionsConsoleApp.genruntimeconfig.cache
+C:\Users\farid\Desktop\New folder (2)\Generic-Collections\Generic-CollectionsConsoleApp\Generic-CollectionsConsoleApp\obj\Debug\net5.0\ref\Generic-CollectionsConsoleApp.dll

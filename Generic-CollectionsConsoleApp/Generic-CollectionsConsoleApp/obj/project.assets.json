@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\farid\\Desktop\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\farid\\Desktop\\P322\\Task\\Generic-Collections\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp.csproj",
       "projectName": "Generic-CollectionsConsoleApp",
-      "projectPath": "C:\\Users\\farid\\Desktop\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp.csproj",
+      "projectPath": "C:\\Users\\farid\\Desktop\\P322\\Task\\Generic-Collections\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp.csproj",
       "packagesPath": "C:\\Users\\farid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\farid\\Desktop\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\farid\\Desktop\\P322\\Task\\Generic-Collections\\Generic-CollectionsConsoleApp\\Generic-CollectionsConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

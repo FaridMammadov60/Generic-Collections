@@ -18,7 +18,7 @@ namespace Generic_CollectionsConsoleApp.Models
         #region Constructor
         public Student(string surname,string name, double point)
         {
-            _id++;
+            Id++;
             this.Surname = surname;
             this.Name = name;
             this.Point = point;
@@ -26,6 +26,17 @@ namespace Generic_CollectionsConsoleApp.Models
         #endregion
 
         #region Property
+        public int Id 
+        { 
+            get
+            {
+                return _id;
+            }
+            private set
+            {
+                _id = value;
+            }
+        }
         public string Surname
         {
             get
